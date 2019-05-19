@@ -13,5 +13,8 @@ public class App
         System.out.println( "Hello World!" );
         File f = new File("a.txt");
         System.out.println("f = " + f);
+        System.out.println( "Hello World!" );
+        System.out.println( "Hello World!" );
+
     }
 }
