@@ -1,0 +1,17 @@
+package www.javamaven.com;
+
+import java.io.*;
+
+/**
+ * Hello world!
+ *
+ */
+public class App 
+{
+    public static void main( String[] args )
+    {
+        System.out.println( "Hello World!" );
+        File f = new File("a.txt");
+        System.out.println("f = " + f);
+    }
+}
